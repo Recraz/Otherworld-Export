@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1773956365|56806349444';
+const CACHE_VERSION = '1773958386|60636181';
 /** @type {string} */
 const CACHE_PREFIX = 'Otherworld-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
